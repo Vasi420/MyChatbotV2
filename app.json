@@ -1,7 +1,7 @@
 {
   "name": "ChatBot",
   "description": "A telegram bot",
-  "logo": "https://graph.org/file/33a15ad747ab90ab19ba6.jpg",
+  "logo": "https://te.legra.ph/file/a60bd954c7cf3a69cea07.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/THEMOHMAYA/TMMChatbotV2",
+  "repository": https://te.legra.ph/file/19b77026705767919d268.mp4",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
@@ -36,7 +36,7 @@
     "OWNER_ID": {
       "description": "User id of the user who will known as owner of the bot.",
       "required": true,
-      "value": "5311223486"
+      "value": "5981008313"
     }
   }
 }
